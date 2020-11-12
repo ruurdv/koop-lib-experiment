@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+/node_modules
+*.log
+*.json
+!/package.json
+/package-lock.json
+component-library/
+designsystem/
+public/

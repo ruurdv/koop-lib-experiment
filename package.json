@@ -1,0 +1,14 @@
+{
+  "name": "koop-experiment",
+  "version": "1.0.0",
+  "description": "Leeg",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@frctl/fractal": "^1.5.0",
+    "gulp": "^4.0.2"
+  }
+}
